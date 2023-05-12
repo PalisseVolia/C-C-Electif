@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1512056809 source:/home/juan/Bureau/Temps/main.cpp
+	<iostream>
+	"temps.h"
+	"point.h"
+
+1512056952 /home/juan/Bureau/Temps/temps.h
+
+1512124526 /home/juan/Bureau/Temps/point.h
+	"temps.h"
+
+1487713808 source:/home/juan/Bureau/Temps/point.cpp
+	"point.h"
+	<iostream>
+
+1512122131 source:/home/juan/Bureau/Temps/temps.cpp
+	<iostream>
+	"temps.h"
+
